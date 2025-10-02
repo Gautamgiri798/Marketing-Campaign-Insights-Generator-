@@ -1,4 +1,4 @@
-#Marketing Campaign Insights Generator 📈
+## Marketing Campaign Insights Generator 📈
 
 
 An AI-powered web application that automatically analyzes marketing campaign data from a CSV file and generates a professional insights report using Google's Gemini API.This project was built to demonstrate a practical, end-to-end AI solution that solves a real business problem: automating data analysis to save time and uncover actionable insights.Replace the URL above with a link to your own screenshot after running the app.

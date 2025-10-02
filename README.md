@@ -6,7 +6,7 @@ An AI-powered web application that automatically analyzes marketing campaign dat
 
 ✨ Features
 
--Easy Data Upload: Upload your marketing data as a CSV file directly in the browser.
+- Easy Data Upload: Upload your marketing data as a CSV file directly in the browser.
 
 -Automated Data Summary: Performs initial data analysis using Pandas to calculate descriptive statistics and correlations.
 

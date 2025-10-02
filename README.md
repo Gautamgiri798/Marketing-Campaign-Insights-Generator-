@@ -2,7 +2,7 @@
 An AI-powered web application that automatically analyzes marketing campaign data from a CSV file and generates a professional insights report using Google's Gemini API.This project was built to demonstrate a practical, end-to-end AI solution that solves a real business problem: automating data analysis to save time and uncover actionable insights.Replace the URL above with a link to your own screenshot after running the app.
 
 ✨ Features
--Easy Data Upload: Upload your marketing data as a CSV file directly in the browser.
+=>Easy Data Upload: Upload your marketing data as a CSV file directly in the browser.
 -Automated Data Summary: Performs initial data analysis using Pandas to calculate descriptive statistics and correlations.
 -AI-Powered Insights: Uses the Google Gemini API to interpret the data summary and generate qualitative insights.
 -Professional Reporting: The AI generates a structured report with:
